@@ -1,0 +1,111 @@
+📊 Business Performance Report
+1. Executive Summary
+
+Total Sales: $29.36M vs Target Sales: $24.74M
+
+Achievement Rate: 118.66% (target exceeded)
+
+YoY Sales Growth: -21.15% (decline vs last year)
+
+Top 2 Countries Contribution: 62.85% (United States $9.4M, Australia $9.1M)
+
+🔑 Key Insight: While overall targets were exceeded, the business experienced a sales decline compared to the previous year. Performance is concentrated in a few countries, raising dependency risks.
+
+2. Country Performance Insights
+
+United States & Australia → Combined ~63% of total sales.
+
+UK ($3.4M), Germany ($2.9M), France ($2.6M), Canada ($2.0M) contributed smaller shares.
+
+Variance % by Country: France (+31.1%) and Germany (+30.4%) showed the strongest improvements, while Australia (+8.7%) and the US (+18.5%) had relatively lower growth.
+
+🔑 Key Insight: Growth is uneven across geographies. France and Germany are emerging growth drivers, but reliance on the US & Australia remains high.
+
+3. Product & Category Performance
+
+Active Products: 158, with 46 products contributing 80% of sales.
+
+Top Products: Road-150 and Mountain-200 series dominate, each exceeding ~$10M.
+
+Category Variance:
+
+Bikes: +14.45% growth
+
+Accessories, Clothing, Components: large declines (-97% to -100%)
+
+🔑 Key Insight: The portfolio is heavily bike-dependent, while accessories and clothing underperform significantly, indicating missed diversification opportunities.
+
+4. Variance & Target Achievement
+
+Overall Achievement: 118.66% of target
+
+By Country:
+
+Strong Overachievement: Germany (206%), UK (149%), France (131%)
+
+Moderate Overachievement: US (119%), Canada (113%), Australia (109%)
+
+Target Miss/Beat:
+
+2019 & 2018 exceeded targets by +$4.3M and +$2.3M.
+
+2020 fell short by -$1.9M, driving overall YoY decline.
+
+🔑 Key Insight: 2019 was a peak year. The decline in 2020 despite target achievement suggests market contraction or external factors.
+
+5. Country-Specific Deep Dive (Australia Example)
+
+Sales: $29.36M (all years combined)
+
+YoY Change: -21.15%
+
+Category Mix: Bikes (~$28M) dominate; negligible contribution from Accessories/Clothing.
+
+Sales Efficiency: $89.48M sales per $B GDP
+
+🔑 Key Insight: Australia is highly bike-dependent with little category diversification.
+
+6. Key Takeaways & Recommendations
+
+High Dependence on Bikes → Need to revive Accessories & Clothing sales to diversify risk.
+
+Geographic Concentration Risk → US & Australia dominate sales; growth in France & Germany should be nurtured.
+
+Performance Volatility → Strong 2019 but decline in 2020; need to analyze external market factors (economic slowdown, demand shifts, competition).
+
+Product Rationalization → 46 products drive 80% of sales. Consider focusing resources on top-performers while re-evaluating low performers.
+
+Strategic Next Steps:
+
+Expand product diversification (revive Clothing/Accessories).
+
+Strengthen presence in emerging strong markets (France, Germany).
+
+Investigate 2020 decline causes and develop recovery strategies.
+
+Explore reducing dependency on top 2 countries.
+
+7. Risks & Challenges
+
+Over-concentration risk: Heavy reliance on bikes and top 2 countries (US & Australia).
+
+Category weakness: Accessories, Clothing & Components collapsed (over -95%).
+
+Market volatility: 2020 decline despite hitting targets indicates possible external pressures (economic downturn, COVID impact, supply chain).
+
+8. Opportunities & Next Steps
+
+Growth Potential in Europe: France & Germany show strong growth variance — invest in sales channels there.
+
+Product Mix Diversification: Accessories & Clothing recovery campaigns could unlock untapped revenue.
+
+Data-Driven Portfolio Management: Use top 46 products (80% of sales) as a focus group, while trimming unproductive SKUs.
+
+2021 Strategy: Build recovery plan targeting >10% YoY growth with diversified country & category mix.
+
+📌 Final Narrative for Management
+✔️ Targets met but with declining YoY performance
+✔️ Over-reliance on bikes and two major countries
+✔️ France & Germany are clear growth opportunities
+✔️ 2020 decline signals market risk and needs root-cause analysis
+✔️ Strategic next steps focus on diversification, regional expansion, and product mix optimization

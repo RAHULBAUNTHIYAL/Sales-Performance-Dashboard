@@ -1,0 +1,105 @@
+Detailed Stakeholder Report (2017–2020)
+
+Prepared for: Management & Stakeholders
+Prepared by: [Your Name]
+Date: [Insert Date]
+
+1. Executive Overview
+
+The dashboards provide a consolidated view of business performance across regions, products, and time periods. While overall sales targets were exceeded (118.66% achievement), the business experienced a 21% decline YoY in 2020, highlighting both strengths and underlying risks.
+
+2. Country Performance Insights
+
+Revenue Concentration: United States ($9.4M) and Australia ($9.1M) contributed ~63% of total sales.
+
+Europe Rising: France (+31.1% variance) and Germany (+30.4% variance) showed the strongest momentum.
+
+Moderate Performers: UK ($3.4M, +49%), Canada ($2.0M, +13%).
+
+Risk: Dependency on two anchor markets exposes the business to shocks.
+
+🔑 Insight: While US & Australia remain anchors, France and Germany are emerging as high-growth opportunities.
+
+3. Product & Category Performance
+
+Active Portfolio: 158 products, with 46 driving 80% of sales.
+
+Top Products: Road-150 and Mountain-200 dominate (>$10M each).
+
+Category Mix:
+
+Bikes: +14.45% growth, core category.
+
+Accessories, Clothing, Components: collapsed (-97% to -100%).
+
+🔑 Insight: The business is heavily bike-dependent. Secondary categories are underperforming, leaving growth opportunities untapped.
+
+4. Variance & Target Achievement
+
+Overall: 118.66% of target achieved.
+
+Country Highlights:
+
+Germany (206%), UK (149%), France (131%) – strong overachievement.
+
+US (119%), Canada (113%), Australia (109%) – moderate overachievement.
+
+Trend:
+
+2018 & 2019 – strong target overachievement (+$2.3M, +$4.3M).
+
+2020 – missed target (-$1.9M), driving the overall YoY decline.
+
+🔑 Insight: Growth peaked in 2019; 2020 contraction reflects market/systemic risks.
+
+5. Country Deep Dive – Australia Example
+
+Total Sales: $29.36M across years.
+
+YoY Change: -21.15%.
+
+Category Dependence: ~$28M in bikes; negligible sales in Accessories/Clothing.
+
+Efficiency: $89.48M sales per $B GDP.
+
+🔑 Insight: Extremely bike-dependent, vulnerable to category shifts.
+
+6. Variance & Ranking Analysis
+
+High Variance Growth: France, Germany, UK outperform with >130% target achievement.
+
+Stable Anchors: US & Australia remain top contributors, but growth rates are modest.
+
+Lagging Market: Canada remains flat and under-contributing.
+
+🔑 Insight: European markets show volatility but strong growth signals, while North America is stabilizing but dependent on 2 markets.
+
+7. Risks & Challenges
+
+Over-concentration: Reliance on bikes and two countries (US & Australia).
+
+Category Weakness: Non-bike categories have collapsed, limiting portfolio resilience.
+
+Market Volatility: 2020 sales decline highlights exposure to external/global shocks.
+
+Canada’s Weak Role: Persistent underperformance without recovery signals.
+
+8. Opportunities & Next Steps
+
+Europe Expansion: Invest in France & Germany to convert momentum into sustained growth.
+
+Product Diversification: Relaunch Accessories & Clothing to unlock untapped demand.
+
+Portfolio Focus: Double down on top 46 products (80% revenue drivers).
+
+Risk Mitigation: Build resilience plans for global shocks (as seen in 2020).
+
+Reassess Canada: Decide whether to scale back or redesign entry strategy.
+
+9. Final Narrative
+
+✔️ Performance peaked in 2019 but fell in 2020 despite beating targets.
+✔️ US & Australia are anchors but risky due to high dependency.
+✔️ France & Germany are emerging stars; worth further investment.
+✔️ Portfolio is overly reliant on bikes; diversification is needed.
+✔️ Strategic next steps: expand Europe, revive accessories/clothing, rationalize products, and reduce dependency on top 2 markets.
